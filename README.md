@@ -1,9 +1,6 @@
 # Apple Global Product Sales | SQL 
 
-A MySQL project analyzing Apple's global product sales data across 47 countries, 
-6 product categories, and 3 years (2022–2024). The project answers 25 business 
-questions across 5 analysis sections, covering database setup, data cleaning, 
-business analysis, and advanced SQL concepts such as Window Functions and CTEs.
+A MySQL project analyzing Apple’s global product sales data across 47 countries, 6 product categories, and 3 years (2022–2024). The project answers 25 business questions across 5 analysis sections.
 
 ---
 
