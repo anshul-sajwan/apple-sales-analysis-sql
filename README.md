@@ -92,7 +92,7 @@ A MySQL project analyzing Apple’s global product sales data across 47 countrie
 - Q14. What is the best-selling product category in each region?
 - Q15. Which countries have the highest return rates?
 
-**Customer Behaviour & Satisfaction (Q16–Q20)**
+**Customer Behavior & Satisfaction (Q16–Q20)**
 - Q16. Which customer segment generates the most revenue?
 - Q17. Which age group has the highest return rate?
 - Q18. Which payment method is preferred by each age group?
